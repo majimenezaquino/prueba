@@ -1,0 +1,17 @@
+commit 975114da47f90939509d010f61f88e9946872de2
+Author: majimenez <migueljimenezaquino@gmail.com>
+Date:   Mon Jul 9 11:13:16 2018 -0400
+
+    probando git
+
+commit 3b5861074095016b7194f039baf6998445b8e993
+Author: majimenez <migueljimenezaquino@gmail.com>
+Date:   Mon Jul 9 11:05:14 2018 -0400
+
+    creacion de un nuevo documento
+
+commit e11f46d9a2cf64dedf1f12990f5666ef31ab944a
+Author: majimenez <migueljimenezaquino@gmail.com>
+Date:   Mon Jul 9 11:02:19 2018 -0400
+
+    Inicial primer commit
